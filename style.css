@@ -1,0 +1,199 @@
+html {
+    background-color: #1F2544;
+}
+
+#front-card {
+    width: 340px;
+    height: 189px;
+    background: linear-gradient(to right, #573FDB, #A282FB);
+    position: absolute;
+}
+
+#back-card {
+    width: 340px;
+    height: 189px;
+    background: linear-gradient(to right, #573FDB, #A282FB);
+    position: absolute;
+    top: 8px;
+    left: 350px;
+}
+
+.card-line {
+    width: 340px;
+    height: 7px;
+    background-color: #BAADFF;
+    position: absolute;
+    top: 150px;
+}
+
+.card-line-2 {
+    width: 340px;
+    height: 32px;
+    background-color: white;
+    position: absolute;
+    top: 157px;
+}
+
+.back-card-line {
+    width: 7px;
+    height: 189px;
+    background-color: #BAADFF;
+    position: relative;
+    left: 40px;
+}
+
+.back-card-line-2 {
+    width: 40px;
+    height: 189px;
+    background-color: white;
+    position: relative;
+    
+}
+
+.div-main-logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 30px;
+    left: 135px;
+}
+
+.img-mitz-logo {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+    left: 7px;
+}
+
+.img-wap-logo {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    top: 60px;
+    left: 90px;
+}
+
+.img-fb-logo {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    top: 60px;
+    left: 90px;
+}
+
+.img-x-logo {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    top: 60px;
+    left: 90px;
+}
+
+.img-ig-logo {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    top: 60px;
+    left: 90px;
+}
+
+h1 {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: large;
+    color: white;
+}
+
+#p-text-1 {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: large;
+    color: white;
+    width: 200px;
+    position: relative;
+    top: 20px;
+    left: 101px;
+}
+
+#p-text-2 {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: relative;
+    top: 15px;
+    left: 109px;
+}
+
+#p-text-3 {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 70px;
+    left: 58px;
+}
+
+#p-wp {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 107px;
+    left: 148px;
+}
+
+#p-fb {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 126px;
+    left: 148px;
+}
+
+#p-x {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 144px;
+    left: 148px;
+}
+
+#p-ig {
+    margin: 0px;
+    font-family: "Alkatra", system-ui;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: x-small;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 163px;
+    left: 148px;
+}
